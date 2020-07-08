@@ -1,0 +1,190 @@
+.container-width{
+	width:1400px;
+	margin:auto;
+}
+.navbar{
+	padding: 15px 120px;
+}
+.bg-image{
+	background-color:#d5edd5;
+}
+.width-img{
+	width:150px;
+}
+.variety-btn{
+	border:none;
+	padding:8px 20px;
+	border-radius:18px;
+	color:#fff !important;
+	background-color:#21b573;
+}
+.variety-btn:hover{
+	background-color:#444;
+	transition:.5s;
+}
+.carousel-inner{
+	padding: 35px 120px;
+}
+.color-writing h1, span{
+	margin-bottom:10px;
+}
+.color-writing small{
+	color:#be0000c7;
+	font-family:arial;
+}
+.color-writing h1{
+	font-family: 'Roboto', sans-serif;
+	font-size:900;
+} 
+.color-writing span{
+	color:green;
+}
+.color-writing p{
+	font-family: 'Roboto', sans-serif;
+	font-size:100 italic;
+} 
+.card-icons img{
+	width:80px;
+	padding-top:10px;
+	margin:10px;
+}
+.card-icons{margin-top:50px;
+	border:none;
+	border-radius:10px;
+	padding:30px 0px;
+}
+.icons-shadow{
+	box-shadow:5px 5px 10px lightgray;
+}
+.card-Topic{
+	margin-bottom:10px;
+}
+.icons-background{
+	background-color:#8cc6ac0f;
+}
+.icons-student-test h5{
+	padding-top:10px;
+}
+.icons-student-test{
+	padding:30px;
+}
+.online-courses h2{
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	font-weight:900;
+	color:#450051;
+	margin-top:80px;
+	margin-bottom:40px;
+}
+.card-shadow{
+	border:none;
+	box-shadow:5px 5px 10px lightgray;
+	border-radius:10px;
+}
+.card-image img{
+	width:310px;margin:auto;padding:15px 0;
+}
+.icon-footer img{
+	width:20px;
+}
+.icon-footer{
+	border:none;
+	background-color:#fff;
+}
+.center-testimonial{
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	font-weight:900 italic;
+	color:#000;
+	margin-top:100px;
+	margin-bottom:60px;
+}
+.man-image img{
+	width:180px;
+}
+.man-image{
+	padding-left:155px;}
+.man-content{
+
+	padding-right:228px;
+}
+.man-content p{
+	font-family: 'Roboto', sans-serif;
+	padding-right:3px;
+	padding-top:40px;
+}
+.rows-four-col{
+	background-color:#444;
+	color:#ddd;
+	padding:65px 99px;
+	margin-top:90px;
+}
+footer{
+	font-family: 'Roboto', sans-serif;
+	background-color:#444;
+	text-align:center;
+	padding-bottom:10px;
+	color:#ddd;
+}
+
+/*off Topic*/
+
+.image-writing{
+	background:
+	linear-gradient(#00000070,#00000070),
+	linear-gradient(#00000072,#00000072),
+	url(Photos/illustration.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:1400px;
+	height:872px;
+	text-align:center;
+	border-radius:40px;
+}
+.menu-nav{
+	padding-top:23px;
+	margin:0px;
+}
+.side-nav{margin-left:63px;}
+.content-writen{
+	padding:155px 40px;
+}
+.variety-button{
+	border:none;
+	padding: 25px 70px;
+	border-radius:18px;
+	color:#fff !important;
+	background-color:#21b573;
+	margin-top:45px;
+	font-size:25px;
+}
+.variety-button:hover{
+	background-color:red;
+	transition:.5s;
+}
+.color-writen{
+	margin:210px;
+}
+.color-writen h1, span{
+	margin-bottom:10px;
+}
+.color-writen small{
+	color:#be0000c7;
+	font-family:arial;
+	font-size:23px;
+}
+.color-writen h1{
+	font-family: 'Roboto', sans-serif;\
+	font-size:900;
+	font-size:50px;
+	color:#9f5000a1;
+} 
+.color-writen span{
+	color:green;
+}
+.color-writen p{
+	font-family: 'Roboto', sans-serif;
+	font-size:100 italic;
+	font-size:21px;
+	color:#ddd;
+} 
